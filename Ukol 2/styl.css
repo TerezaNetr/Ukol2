@@ -1,0 +1,35 @@
+.font {
+  font-family: Helvetica, sans-serif;
+  line-height: 1.5;
+}
+.green {
+  color: rgb(0, 204, 102);
+}
+.letters {
+  text-transform: uppercase;
+}
+
+.picture {
+  width: 25%;
+}
+
+.tucny-text {
+  font-weight: bold;
+}
+
+.podtrzeny-text {
+  text-decoration: underline;
+}
+
+a {
+  color: rgb(255, 51, 0);
+}
+
+.type {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.cursive {
+  font-style: italic;
+}
